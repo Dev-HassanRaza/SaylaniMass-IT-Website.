@@ -2,7 +2,12 @@
   margin: 0;
   padding: 0;
 }
-
+.group-image{
+  margin: 0;
+  padding: 0;
+  height: 450px;
+  width: 100;
+}
 .navBar {
   display: flex;
   /* justify-content: space-between; */
@@ -112,7 +117,7 @@ a {
 }
 
 .curved-button:hover {
-  background-color: #0056b3;
+  background-color: greenyellow;
 }
 .group-image {
   display: flex;
@@ -273,7 +278,7 @@ img {
 }
 
 .footer-logo img {
-  width: 100px; /* Adjust the width as needed */
+  width: 100px; 
 }
 
 .footer-links {
